@@ -15,6 +15,6 @@ Currently It supports English Language only
     <img src="screenshots/2.png" width="150px"</img> 
     <img src="screenshots/3.png" width="150px"</img> 
     <img src="screenshots/4.png" width="150px"</img> 
-    <img src="screenshots/5.png" width="150px"</img> 
+    <video src='screenshots/fruithub_video.mov' width=180/>
 </div>
 
