@@ -10,11 +10,12 @@ Here I have developed functionlity as required
 
 Currently It supports English Language only
 
+I have used IQKeyboardManagerSwift(https://cocoapods.org/pods/IQKeyboardManagerSwift) Pod for keypad management on scrollview 
+
 <div align="center">
     <img src="screenshots/1.png" width="150px"</img> 
     <img src="screenshots/2.png" width="150px"</img> 
     <img src="screenshots/3.png" width="150px"</img> 
     <img src="screenshots/4.png" width="150px"</img> 
-    <video src='screenshots/fruithub_video.mov' width=180/>
 </div>
 
